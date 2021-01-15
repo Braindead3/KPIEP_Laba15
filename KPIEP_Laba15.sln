@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPIEP_Laba15", "KPIEP_Laba15\KPIEP_Laba15.csproj", "{76702C43-06B7-4E97-847C-250905AF5309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76702C43-06B7-4E97-847C-250905AF5309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76702C43-06B7-4E97-847C-250905AF5309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76702C43-06B7-4E97-847C-250905AF5309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76702C43-06B7-4E97-847C-250905AF5309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A88C39-CD5A-44AD-A75D-D58EDF941DCE}
+	EndGlobalSection
+EndGlobal
